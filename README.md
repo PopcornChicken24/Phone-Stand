@@ -17,3 +17,5 @@ This phone stand is designed to securely hold most smartphones in both **portrai
 ## Printing
 
 The model is optimized for FDM 3D printing and can be printed using common materials such as PLA or PETG. It prints as a single part and can be produced in one color or multiple colors to match your preference.
+<img width="1909" height="984" alt="image" src="https://github.com/user-attachments/assets/6753e876-e57f-41f4-8d64-d80b8d48f46b" />
+<img width="3024" height="4032" alt="IMG_0932 (1)" src="https://github.com/user-attachments/assets/f9a7f17c-ed28-4b1a-b1ca-ca8080226966" />
